@@ -1,2 +1,6 @@
 # newscheck
-News classification as a FAKE news or REAL news.
+Web App using Flask for News classification as a FAKE news or REAL news.
+
+
+
+
